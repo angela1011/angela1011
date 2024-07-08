@@ -1,4 +1,6 @@
-## Hi there 👋
+[![Email](https://img.shields.io/badge/Email-angela.891011@gmail.com-blue)](mailto:angela.891011@gmail.com)
+
+##  About Me 👋
 
 𝐌𝐒 𝐃𝐞𝐩𝐭. 𝐨𝐟 𝐆𝐞𝐨𝐬𝐜𝐢𝐞𝐧𝐜𝐞𝐬 @ 𝐍𝐓𝐔
 
