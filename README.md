@@ -1,8 +1,6 @@
 <!--
 **angela1011/angela1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,6 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![GitHub](https://img.shields.io/badge/GitHub-%23.svg?style=flat-square&logo=github&color=24292f&logoColor=white)](https://github.com/angela1011)
 -->
 
 ##  About Me 👋
@@ -24,7 +23,6 @@ Here are some ideas to get you started:
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=compact&theme=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23.svg?style=flat-square&logo=github&color=24292f&logoColor=white)](https://github.com/angela1011)
 [![Linkedin](https://img.shields.io/badge/Linkedin-%23.svg?style=flat-square&logo=linkedin&color=1da1f2&logoColor=white)](https://www.linkedin.com/in/i-yun-kang)
 [![YouTube](https://img.shields.io/badge/YouTube-%23.svg?style=flat-square&logo=youtube&color=tomato&logoColor=white)](https://www.youtube.com/@kangela1011)
 [![Email](https://img.shields.io/badge/Email-angela.891011@gmail.com-lightblue)](mailto:angela.891011@gmail.com)
