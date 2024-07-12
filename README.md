@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![GitHub](https://img.shields.io/badge/GitHub-%23.svg?style=flat-square&logo=github&color=24292f&logoColor=white)](https://github.com/angela1011)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=compact&theme=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=compact&langs_count=10&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ##  About Me 👋
@@ -21,8 +23,8 @@ Here are some ideas to get you started:
 - 𝐒𝐮𝐦𝐦𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐢𝐧 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞 𝐨𝐟 𝐄𝐚𝐫𝐭𝐡 𝐒𝐜𝐢𝐞𝐧𝐜𝐞𝐬, 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐚 𝐒𝐢𝐧𝐢𝐜𝐚 (𝐈𝐄𝐒, 𝐀𝐂).
 - 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐒𝐞𝐨𝐮𝐥, 𝐊𝐨𝐫𝐞𝐚 (𝐄𝐱𝐜𝐡𝐚𝐧𝐠𝐞 𝐒𝐭𝐮𝐝𝐞𝐧𝐭).
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=compact&theme=white)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=compact&langs_count=10&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=donut&langs_count=6&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-%23.svg?style=flat-square&logo=linkedin&color=1da1f2&logoColor=white)](https://www.linkedin.com/in/i-yun-kang)
 [![YouTube](https://img.shields.io/badge/YouTube-%23.svg?style=flat-square&logo=youtube&color=tomato&logoColor=white)](https://www.youtube.com/@kangela1011)
