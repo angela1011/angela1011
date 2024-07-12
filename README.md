@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![GitHub](https://img.shields.io/badge/GitHub-%23.svg?style=flat-square&logo=github&color=24292f&logoColor=white)](https://github.com/angela1011)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=compact&theme=white)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=compact&langs_count=10&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=donut&langs_count=10&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ##  About Me 👋
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐒𝐞𝐨𝐮𝐥, 𝐊𝐨𝐫𝐞𝐚 (𝐄𝐱𝐜𝐡𝐚𝐧𝐠𝐞 𝐒𝐭𝐮𝐝𝐞𝐧𝐭).
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&title_color=6699FF&border_color=99CCCC&text_color=996600&layout=donut&hide=Roff,PostScript,NASL,C,Objective-C,DIGITAL&#32;Command&#32;Language,Makefile,Batchfile&langs_count=6&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&title_color=6699FF&border_color=99CCCC&text_color=996600&layout=compact&hide=Roff,PostScript,NASL,C,Objective-C,DIGITAL&#32;Command&#32;Language&langs_count=8&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-%23.svg?style=flat-square&logo=linkedin&color=1da1f2&logoColor=white)](https://www.linkedin.com/in/i-yun-kang)
 [![YouTube](https://img.shields.io/badge/YouTube-%23.svg?style=flat-square&logo=youtube&color=tomato&logoColor=white)](https://www.youtube.com/@kangela1011)
