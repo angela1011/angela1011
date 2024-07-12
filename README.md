@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![GitHub](https://img.shields.io/badge/GitHub-%23.svg?style=flat-square&logo=github&color=24292f&logoColor=white)](https://github.com/angela1011)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=compact&theme=white)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=compact&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=donut&langs_count=10&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
