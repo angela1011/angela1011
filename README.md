@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐒𝐞𝐨𝐮𝐥, 𝐊𝐨𝐫𝐞𝐚 (𝐄𝐱𝐜𝐡𝐚𝐧𝐠𝐞 𝐒𝐭𝐮𝐝𝐞𝐧𝐭).
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=compact&theme=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angela1011&layout=compact&langs_count=10&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-%23.svg?style=flat-square&logo=linkedin&color=1da1f2&logoColor=white)](https://www.linkedin.com/in/i-yun-kang)
 [![YouTube](https://img.shields.io/badge/YouTube-%23.svg?style=flat-square&logo=youtube&color=tomato&logoColor=white)](https://www.youtube.com/@kangela1011)
